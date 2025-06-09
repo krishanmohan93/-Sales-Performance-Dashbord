@@ -2,7 +2,7 @@
 
 This project showcases a comprehensive *Sales Performance Dashboard* built using Power BI, providing real-time insights into key business metrics such as *Total Sales, **Profit, **Monthly Trends, and **Category-wise Performance* across different regions.
 
-![Dashboard Screenshot](./"C:\Users\krish\Downloads\Screenshot 2025-06-09 163858.png")
+![Dashboard Screenshot](./163858.png")
 
 ---
 
